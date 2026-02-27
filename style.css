@@ -1,0 +1,27 @@
+body {
+   background-color: rgb(255, 255, 255);
+}
+
+.red {
+   padding: 50;
+   margin: 20;
+   background-color: rgb(255, 98, 98);
+}
+
+.flex {
+   display: flex;
+   justify-content: center;
+}
+
+.red-2 {
+   height: 100px;
+   width: 240px;
+   margin: 20px;
+   background-color: rgb(170, 60, 60);
+}
+
+.orange {
+   padding: 50px;
+   margin: 20px;
+   background-color: rgb(39, 204, 226);
+}
