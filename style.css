@@ -25,3 +25,10 @@ body {
    margin: 20px;
    background-color: rgb(39, 204, 226);
 }
+
+.red-3 {
+   padding: 125px 50px;
+   margin: 20px;
+   background-color: rgb(189, 9, 9);
+}
+
