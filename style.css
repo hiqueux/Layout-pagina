@@ -3,8 +3,8 @@ body {
 }
 
 .red {
-   padding: 50;
-   margin: 20;
+   padding: 50px;
+   margin: 20px;
    background-color: rgb(255, 98, 98);
 }
 
@@ -26,9 +26,16 @@ body {
    background-color: rgb(39, 204, 226);
 }
 
-.red-3 {
-   padding: 125px 50px;
-   margin: 20px;
-   background-color: rgb(189, 9, 9);
+.red-3{
+   padding-bottom: 200px;
 }
 
+.red-4 {
+   padding-bottom: 200px;
+   background-color: rgb(160, 9, 9);
+}
+
+.red-5{
+   padding-right: 200px;
+   background-color: rgb(146, 0, 0);
+}
